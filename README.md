@@ -16,7 +16,7 @@ My project was created using html, css, bootstrap 5,and mostly JavaScript.
 
 ## Deployed Page
 
-![Deployed Page Screenshot](./images/screenshot1),(./images/screenshot2),(./images/screenshot3)
+![Deployed Page Screenshot](./images/screenshot1)(./images/screenshot2)(./images/screenshot3)
 
 [Deployed GitPage]()
 
