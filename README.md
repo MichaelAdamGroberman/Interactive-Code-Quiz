@@ -20,7 +20,7 @@ My project was created using html, css, bootstrap 5,and mostly JavaScript.
 ![Deployed Page Screenshot 2](./images/screenshot2.png)
 ![Deployed Page Screenshot 3](./images/screenshot3.png)
 
-[Deployed GitPage]()
+[Deployed GitPage](https://michaeladamgroberman.github.io/Interactive-Code-Quiz/)
 
 ## Code Quiz Comments
 
